@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MarieNanana
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a manager for few devs
 - 📫 How to reach me: Discord → Exo#2468
 
 <!---
