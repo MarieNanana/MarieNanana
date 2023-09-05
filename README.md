@@ -1,8 +1,3 @@
 - 👋 Hi, I’m @MarieNanana
-- 👀 I’m a manager for few devs
-- 📫 How to reach me: Discord → Exo#2468
-
-<!---
-MarieNanana/MarieNanana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a manager for few freelance devs as well as do some small things in js on side
+- 📫 How to reach me: Discord → sweets_enjoyer
